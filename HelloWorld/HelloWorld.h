@@ -1,5 +1,6 @@
 #pragma once
 #include <iostream>
+#include <istream>
 #include <string>
 
 using std::string;
@@ -14,3 +15,5 @@ void printLine(string textToPrint, bool endLine);
 void testingBoolean();
 void stringTest();
 void letterAge();
+string readString();
+int readConsole();
