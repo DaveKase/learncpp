@@ -154,6 +154,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="add.cpp" />
+    <ClCompile Include="EnumSwitchWhile.cpp" />
     <ClCompile Include="HelloWorld.cpp" />
     <ClCompile Include="SomeOldCode.cpp" />
     <ClCompile Include="stdafx.cpp">
